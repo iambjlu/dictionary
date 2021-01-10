@@ -30,6 +30,7 @@ For Download link, source code bricks and details, please click here (iOS Versio
 
 
 <h2>Android 中英雙向字典 / Android Chinese-English Two-Way Dictionary</h2>
+<pre>
 可支援的語言：中文→英文、英文→中文
 使用字典來源：Yahoo字典 (本專案僅供學術研究使用，請勿用作商業用途）
 <br>
