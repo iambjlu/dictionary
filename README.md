@@ -19,6 +19,13 @@ You can check it out in "Settings→General→Dictionary".
 <br>
 「字典」使用iOS捷徑製成。
 "Dictionary" was written by iOS Shortcut.
+<br>
+相容性：iOS 13以上版本(更低版本也許可以使用，但不保證使用功能正常與體驗）
+Compatiblity: iOS 13 or newer version (iOS 12 may be fine, but I won't be responsible for it's user experience and functions working or not)</pre>
+
+<br>
+已於以下裝置測試可用，功能皆正常：iPhone X🅁, iOS 14.1.0、iPhone SE,iOS 13.4、iPad mini 2019, iPadOS 14.0.1
+Tested on iPhone X🅁, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1, all of them worked correctly.
 </pre>
 
 <a href="https://github.com/"><pre>
@@ -40,6 +47,12 @@ Sources that dictionary used: Yahoo Dictionary
 <br>
 「字典」使用MIT App Inventor 2製成。
 "Dictionary" was created with MIT App Inventor 2.
+<br>
+相容性：Android 5以上版本(更低版本也許可以使用，但不保證使用功能正常與體驗）
+Compatiblity: Android 5 or newer version (lower versions may be fine, but I won't be responsible for it's user experience and functions working or not)</pre>
+<br>
+已於以下裝置測試可用，功能皆正常：Google Pixel 2, Android 11.0、HTC Desire 650, Android 6.0.1
+Tested on Google Pixel 2, Android 11.0 and HTC Desire 650, Android 6.0.1, both worked correctly.
 </pre>
 
 <a href="https://github.com/"><pre>
