@@ -26,7 +26,7 @@ Compatiblity: iOS 13 or newer version (iOS 12 may be fine, but I won't be respon
 不需要網際網路連線。Internet connection is not required.
 <br>
 已於以下裝置測試可用，功能皆正常：iPhone X🅁, iOS 14.1.0、iPhone SE,iOS 13.4、iPad mini 2019, iPadOS 14.0.1
-Tested on iPhone X🅁, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1, all of them worked correctly.
+Tested on iPhone X🅁, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1.  All of them worked correctly.
 </pre>
 
 <a href="https://github.com/"><pre>
@@ -55,7 +55,7 @@ Compatiblity: Android 5 or newer version (lower versions may be fine, but I won'
 需要網際網路連線。Internet connection required.
 <br>
 已於以下裝置測試可用，功能皆正常：Google Pixel 2, Android 11.0、HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7
-Tested on Google Pixel 2, Android 11.0, HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7, all of them worked correctly.
+Tested on Google Pixel 2, Android 11.0, HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7.  All of them worked correctly.
 </pre>
 
 <a href="https://github.com/"><pre>
