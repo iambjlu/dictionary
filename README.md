@@ -4,10 +4,8 @@ this page haven't done yet.
 </pre>
 
 <h1> 字典 / Dictionary </h1>
-<pre>
-可用於兩種的行動作業系統，Apple iOS(包含iPadOS)和Android
+可用於兩種的行動作業系統，Apple iOS(包含iPadOS)和Android<br>
 Avaliable on Two kinds of mobile operating system, Apple iOS(included iPadOS) and Android
-</pre>
 
 <h2>iOS 多語言字典 / iOS Multi-Languages Dictionary</h2>
 <pre>
@@ -30,7 +28,6 @@ For Download link, source code bricks and details, please click here (iOS Versio
 
 
 <h2>Android 中英雙向字典 / Android Chinese-English Two-Way Dictionary</h2>
-<pre>
 可支援的語言：中文→英文、英文→中文
 使用字典來源：Yahoo字典 (本專案僅供學術研究使用，請勿用作商業用途）
 <br>
