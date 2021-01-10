@@ -5,8 +5,8 @@ this page haven't done yet.
 
 <h1> 字典 / Dictionary </h1>
 <pre>
-可用於兩種的行動作業系統，Apple iOS(包含iPadOS)和Android<br>
-Avaliable on Two kinds of mobile operating system, Apple iOS(included iPadOS) and Android
+可用於兩種行動作業系統：Apple iOS(包含iPadOS)和Android
+Avaliable on two mobile operating systems: Apple iOS(included iPadOS) and Android
 </pre>
 
 <h2>iOS 多語言字典 / iOS Multi-Languages Dictionary</h2>
