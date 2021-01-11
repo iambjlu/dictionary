@@ -24,7 +24,7 @@ Compatiblity: iOS 13 or newer version
 <br>
 不需要網際網路連線。Internet connection is not required.
 <br>
-已於以下裝置測試可用，功能皆正常：iPhone X🅁, iOS 14.1.0、iPhone SE,iOS 13.4、iPad mini 2019, iPadOS 14.0.1
+已於以下裝置測試可用，功能皆正常：iPhone X, iOS 14.1.0、iPhone SE,iOS 13.4、iPad mini 2019, iPadOS 14.0.1
 Tested on iPhone X🅁, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1.  All of them worked correctly.
 </pre>
 
