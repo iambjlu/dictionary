@@ -13,7 +13,6 @@ Download (English Version) v1.0
 
 <a href="https://github.com/iambjlu/dictionary/tree/main/Android/SourceFiles"><pre>
 查看原始碼 / Check out the source code bricks
-直接把aia檔案匯入MIT App Inventor查看即可 / Just simply import the aia file into MIT App Inventor
 </a></pre>
 
 <h2>螢幕快照 / Screenshots</h2>
