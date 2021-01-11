@@ -21,7 +21,8 @@ You can check it out in "Settings→General→Dictionary".
 "Dictionary" was written by iOS Shortcut.
 <br>
 相容性：iOS 13以上版本(更低版本也許可以使用，但不保證使用功能正常與體驗）
-Compatiblity: iOS 13 or newer version (iOS 12 may be fine, but I won't be responsible for it's user experience and functions working or not)
+Compatiblity: iOS 13 or newer version<br>
+(lower versions may be fine, but I won't be responsible for it's user experience and functions working or not)
 <br>
 不需要網際網路連線。Internet connection is not required.
 <br>
@@ -44,13 +45,14 @@ For Download link, source code bricks and details, please click here (iOS Versio
 <br>
 Avaliable Languages: Chinese→English, English→Chinese
 Sources that dictionary used: Yahoo Dictionary
-(This project is only provided for educating and researching purposes, don't use it on commercial puspose)
+(This app is only provided for educating and researching purpose.  Don't use it on commercial purpose.)
 <br>
 「字典」使用MIT App Inventor 2製成。
 "Dictionary" was created with MIT App Inventor 2.
 <br>
 相容性：Android 5以上版本(更低版本也許可以使用，但不保證使用功能正常與體驗）
-Compatiblity: Android 5 or newer version (lower versions may be fine, but I won't be responsible for it's user experience and functions working or not)
+Compatiblity: Android 5 or newer version
+(lower versions may be fine, but I won't be responsible for it's user experience and functions working or not)
 <br>
 需要網際網路連線。Internet connection required.
 <br>
