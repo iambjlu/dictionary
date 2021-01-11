@@ -7,7 +7,7 @@ You can check out the source code bricks, or just install it<br>
 If you have the problem on "System version is too old", you can try to make it yourself with the source code bricks.<br>
 <br>
 建議可以將捷徑加入主畫面，方便使用<br>
-Recommended to add the shortcut to Homescreen so you can run it more easily.
+Recommended to add the shortcut to Homescreen so you can run it more easily.<br>
 <br>
 如果無法加入不受信任的捷徑，請先隨便下載一個捷徑執行一次後，再前往「設定」 >「捷徑」，開啟「允許不受信任的捷徑」。<br>
 If you can't install untrusted shortcut, please Open the Shortcuts app and run any shortcut,<br>
