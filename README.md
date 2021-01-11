@@ -6,7 +6,7 @@ Avaliable on two mobile operating systems: Apple iOS(included iPadOS) and Androi
 
 <h2>iOS 多語言字典 / iOS Multi-Languages Dictionary</h2>
 <a href="https://github.com/iambjlu/dictionary/tree/main/iOS"><pre>
-原始碼、下載請點此 (iOS版本)
+下載連結及原始碼請點此 (iOS版本)
 For Download link, source code bricks, please click here (iOS Version)
 </pre></a>
 <pre>
@@ -24,8 +24,8 @@ Compatiblity: iOS 13 or newer version
 <br>
 不需要網際網路連線。Internet connection is not required.
 <br>
-已於以下裝置測試可用，功能皆正常：iPhone X, iOS 14.1.0、iPhone SE,iOS 13.4、iPad mini 2019, iPadOS 14.0.1
-Tested on iPhone X🅁, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1.  All of them worked correctly.
+已於以下裝置測試可用，功能皆正常：iPhone XR, iOS 14.1.0、iPhone SE,iOS 13.4、iPad mini 2019, iPadOS 14.0.1
+Tested on iPhone XR, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1.  All of them worked correctly.
 </pre>
 
 
@@ -33,7 +33,7 @@ Tested on iPhone X🅁, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14
 
 <h2>Android 中英雙向字典 / Android Chinese-English Two-Way Dictionary</h2>
 <a href="https://github.com/iambjlu/dictionary/tree/main/Android/"><pre>
-原始碼、下載請點此 (Android版本)
+下載連結及原始碼請點此 (Android版本)
 For Download link, source code bricks, please click here (Android Version)
 </pre></a>
 <pre>
