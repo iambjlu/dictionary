@@ -19,10 +19,18 @@ Get this shortcut (English Version) v1.0
 查看原始碼 / Check out the source code bricks
 </a></pre>
 
+
+<h2>距離成功只差一個步驟了! / It's only one step away from success!</h2>
+您必須允許這個捷徑運行捷徑，這樣才可以自動重複執行<br>
+You must allow the shortcut to run other shortcuts to repeat itself<br>
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/access-zhtw.gif" width="414px" height="896px">
+</img>
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/access-en.gif" width="414px" height="896px"></img>
+
+
 <h2>螢幕快照 / Screenshots</h2>
 <a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG">
 <img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG" width="414px" height="896px">
 </img></a>
 <a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG">
 <img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG" width="414px" height="896px"></img></a>
-
