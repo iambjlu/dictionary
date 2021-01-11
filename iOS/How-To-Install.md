@@ -1,4 +1,4 @@
-註：Set Audio Output那邊(影片裡下圖那地方的步驟)是在Gallery隨便選一個裝起來打開就好了，不一定要是"Set Audio Output"這個捷徑<br>
+註：Set Audio Output那邊(影片裡下圖那地方的步驟)是在Gallery隨便選一個裝起來打開就好了，不一定要是"Set Audio Output"這個捷徑。<br>
 Please Note that (in the step shown below in video) just install any shortcut in Gallery then run, it doesn't need must to be "Set Audio Output" Shortcut<br>
 
 <img src="https://github.com/iambjlu/dictionary/raw/main/iOS/ReadmeResources/Set-Audio-Output.png"></img>
