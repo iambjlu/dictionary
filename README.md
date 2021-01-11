@@ -1,8 +1,3 @@
-<pre>
-未完成的github頁面
-this page haven't done yet.
-</pre>
-
 <h1> 字典 / Dictionary </h1>
 <pre>
 可用於兩種行動作業系統：Apple iOS(包含iPadOS)和Android
