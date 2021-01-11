@@ -10,7 +10,9 @@ If you have the problem on "System version is too old", you can try to make it y
 Recommended to add the shortcut to Homescreen so you can run it more easily.<br>
 <br>
 如果無法加入不受信任的捷徑，請先隨便下載一個捷徑執行一次後，再前往「設定」 >「捷徑」，開啟「允許不受信任的捷徑」。<br>
-If you can't install untrusted shortcut, please Open the Shortcuts app and run any shortcut, then go to Settings > Shortcuts and turn on "Allow Untrusted Shortcuts".
+If you can't install untrusted shortcut, please Open the Shortcuts app and run any shortcut, then go to Settings > Shortcuts and turn on "Allow Untrusted Shortcuts".<br>
+<a href="https://github.com/iambjlu/dictionary/raw/main/iOS/ReadmeResources/How-To-Install.MP4" target="_blank">
+影片教學(英文) / Video Tutorial(English)</a>
 
 <a href="https://www.icloud.com/shortcuts/325b55b8d6c0473c93686ca0cae12f1d" download target="_blank"><pre>
 取得此捷徑（繁體中文版） v1.0
