@@ -5,6 +5,9 @@ You can check out the source code bricks, or just install it<br>
 <br>
 如果遇到版本太低無法執行的問題，您可以直接照著原始碼製作<br>
 If you have the problem on "System version is too old", you can try to make it yourself with the source code bricks<br>
+<br>
+建議可以將捷徑加入主畫面，方便使用<br>
+Recommended to add the shortcut to Homescreen, it's more easy to run it
 
 <a href="https://www.icloud.com/shortcuts/325b55b8d6c0473c93686ca0cae12f1d" download target="_blank"><pre>
 取得此捷徑（繁體中文版） v1.0
