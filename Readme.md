@@ -11,7 +11,7 @@ For Download link, source code bricks, please click here (iOS Version)
 </pre></a>
 <pre>
 可支援的語言及使用字典來源：依照設定中啟用的辭典而定。
-預設開啟的語言可以在打字時「按住」地球按鈕查看。
+預設開啟的字典可以在打字時「按住」地球按鈕查看。
 您可以在「iOS設定→一般→辭典」詳細查看和決定要起用哪些辭典。<br>
 Avaliable Languages and sources that dictionary uses: It depends on "dictionaries" enabled in your iOS Settings
 You can see default enabled dictionaries by "hold" the globe botton
