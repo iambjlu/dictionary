@@ -34,8 +34,8 @@ You must allow the shortcut to run other shortcuts to repeat itself<br>
 
 
 <h2>螢幕快照 / Screenshots</h2>
-<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG">
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG" width="414px" height="896px">
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-zhtw.gif">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-zhtw.gif" width="414px" height="896px">
 </img></a>
-<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG">
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG" width="414px" height="896px"></img></a>
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-en.gif">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-en.gif" width="414px" height="896px"></img></a>
