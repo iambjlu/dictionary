@@ -20,7 +20,7 @@ You can check it out in "Settings→General→Dictionary".
 "Dictionary" was written by iOS Shortcut.
 <br>
 相容性：iOS 13以上版本(更低版本也許可以使用，但不保證使用功能正常與體驗）
-Compatiblity: iOS 13 or newer version<br>
+Compatiblity: iOS 13 or newer version
 (lower versions may be fine, but I won't be responsible for it's user experience and functions working or not)
 <br>
 不需要網際網路連線。Internet connection is not required.
