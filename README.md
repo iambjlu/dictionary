@@ -30,9 +30,9 @@ Compatiblity: iOS 13 or newer version<br>
 Tested on iPhone X🅁, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1.  All of them worked correctly.
 </pre>
 
-<a href="https://github.com/"><pre>
-下載、原始碼及詳情請點此 (iOS版本)
-For Download link, source code bricks and details, please click here (iOS Version)
+<a href="https://github.com/iambjlu/dictionary/tree/main/iOS"><pre>
+下載、原始碼請點此 (iOS版本)
+For Download link, source code bricks, please click here (iOS Version)
 </pre></a>
 
 
@@ -60,9 +60,9 @@ Compatiblity: Android 5 or newer version
 Tested on Google Pixel 2, Android 11.0, HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7.  All of them worked correctly.
 </pre>
 
-<a href="https://github.com/"><pre>
-下載、原始碼及詳情請點此 (Android版本)
-For Download link, source code bricks and details, please click here (Android Version)
+<a href="https://github.com/iambjlu/dictionary/tree/main/Android/"><pre>
+下載、原始碼請點此 (Android版本)
+For Download link, source code bricks, please click here (Android Version)
 </pre></a>
 
 
