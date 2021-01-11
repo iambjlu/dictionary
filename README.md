@@ -5,6 +5,10 @@ Avaliable on two mobile operating systems: Apple iOS(included iPadOS) and Androi
 </pre>
 
 <h2>iOS 多語言字典 / iOS Multi-Languages Dictionary</h2>
+<a href="https://github.com/iambjlu/dictionary/tree/main/iOS"><pre>
+下載、原始碼請點此 (iOS版本)
+For Download link, source code bricks, please click here (iOS Version)
+</pre></a>
 <pre>
 可支援的語言及使用字典來源：依照設定中啟用的辭典而定。
 可以在「設定→一般→辭典」查看啟用的辭典。
@@ -24,15 +28,14 @@ Compatiblity: iOS 13 or newer version
 Tested on iPhone X🅁, iOS 14.1.0, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1.  All of them worked correctly.
 </pre>
 
-<a href="https://github.com/iambjlu/dictionary/tree/main/iOS"><pre>
-下載、原始碼請點此 (iOS版本)
-For Download link, source code bricks, please click here (iOS Version)
-</pre></a>
-
 
 
 
 <h2>Android 中英雙向字典 / Android Chinese-English Two-Way Dictionary</h2>
+<a href="https://github.com/iambjlu/dictionary/tree/main/Android/"><pre>
+下載、原始碼請點此 (Android版本)
+For Download link, source code bricks, please click here (Android Version)
+</pre></a>
 <pre>
 可支援的語言：中文→英文、英文→中文
 使用字典來源：Yahoo字典 (本專案僅供學術研究使用，請勿用作商業用途。）
@@ -52,10 +55,5 @@ Compatiblity: Android 5 or newer version
 已於以下裝置測試可用，功能皆正常：Google Pixel 2, Android 11.0、HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7
 Tested on Google Pixel 2, Android 11.0, HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7.  All of them worked correctly.
 </pre>
-
-<a href="https://github.com/iambjlu/dictionary/tree/main/Android/"><pre>
-下載、原始碼請點此 (Android版本)
-For Download link, source code bricks, please click here (Android Version)
-</pre></a>
 
 
