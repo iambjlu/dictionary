@@ -20,9 +20,9 @@ Get this shortcut (English Version) v1.0
 </a></pre>
 
 <h2>螢幕快照 / Screenshots</h2>
-<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.png">
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.png" width="414px" height="896px">
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG" width="414px" height="896px">
 </img></a>
-<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.png">
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.png" width="414px" height="896px"></img></a>
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG" width="414px" height="896px"></img></a>
 
