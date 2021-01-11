@@ -10,10 +10,11 @@ Avaliable on two mobile operating systems: Apple iOS(included iPadOS) and Androi
 For Download link, source code bricks, please click here (iOS Version)
 </pre></a>
 <pre>
-可支援的語言及使用字典來源：依照設定中啟用的辭典而定。
-可以在「設定→一般→辭典」查看啟用的辭典。
-Avaliable Languages and sources that dictionary uses: It depends on "dictionaries" enabled in your iOS Setting.
-You can check it out in "Settings→General→Dictionary".
+可支援的語言及使用字典來源：依照設定中啟用的辭典而定。預設開啟的語言可以在打字時「按住」地球按鈕查看
+您可以在「iOS設定→一般→辭典」詳細查看和決定要起用哪些辭典。
+Avaliable Languages and sources that dictionary uses: It depends on "dictionaries" enabled in your iOS Settings
+You can see default enabled dictionaries by "hold" the globe botton
+You can check it out or edit dictionary list in "iOS Settings→General→Dictionary".
 <br>
 「字典」使用iOS捷徑製成。
 "Dictionary" was written by iOS Shortcut.
