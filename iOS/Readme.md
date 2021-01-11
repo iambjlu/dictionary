@@ -4,7 +4,7 @@
 You can check out the source code bricks, or just install it<br>
 <br>
 如果遇到版本太低無法執行的問題，您可以直接照著原始碼製作<br>
-If you have the problem on "System version is too old", you can try to make it yourself with the source code.<br>
+If you have the problem on "System version is too old", you can try to make it yourself with the source code bricks<br>
 
 <a href="https://www.icloud.com/shortcuts/325b55b8d6c0473c93686ca0cae12f1d" download target="_blank"><pre>
 取得此捷徑（繁體中文版） v1.0
@@ -20,9 +20,9 @@ Get this shortcut (English Version) v1.0
 </a></pre>
 
 <h2>螢幕快照 / Screenshots</h2>
-<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG">
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG" width="414px" height="896px">
-</img></a>
 <a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG">
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG" width="414px" height="896px"></img></a>
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-zhtw.PNG" width="414px" height="896px">
+</img></a>
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/SourceFiles/Screenshot-en.PNG" width="414px" height="896px"></img></a>
 
