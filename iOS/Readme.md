@@ -6,12 +6,13 @@ You can check out the source code bricks, or just install it<br>
 如果遇到版本太低無法執行的問題，您可以直接照著原始碼製作<br>
 If you have the problem on "System version too old", you can try to make it yourself with the source code.<br>
 
-<a href="https://www.icloud.com/shortcuts/bac1719486ef4c1cbd76c5045ec8fe44" download target="_blank"><pre>
-Get this shortcut (English Version) v1.0
-</a></pre>
-
 <a href="https://www.icloud.com/shortcuts/325b55b8d6c0473c93686ca0cae12f1d" download target="_blank"><pre>
 取得此捷徑（繁體中文版） v1.0
+</a></pre>
+
+
+<a href="https://www.icloud.com/shortcuts/bac1719486ef4c1cbd76c5045ec8fe44" download target="_blank"><pre>
+Get this shortcut (English Version) v1.0
 </a></pre>
 
 <a href="https://github.com/iambjlu/dictionary/tree/main/iOS/SourceFiles"><pre>
