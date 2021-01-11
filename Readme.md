@@ -11,7 +11,7 @@ For Download link, source code bricks, please click here (iOS Version)
 </pre></a>
 <pre>
 可支援的語言及使用字典來源：依照設定中啟用的辭典而定。預設開啟的語言可以在打字時「按住」地球按鈕查看
-您可以在「iOS設定→一般→辭典」詳細查看和決定要起用哪些辭典。
+您可以在「iOS設定→一般→辭典」詳細查看和決定要起用哪些辭典。<br>
 Avaliable Languages and sources that dictionary uses: It depends on "dictionaries" enabled in your iOS Settings
 You can see default enabled dictionaries by "hold" the globe botton
 You can check it out or edit dictionary list in "iOS Settings→General→Dictionary".
@@ -56,5 +56,4 @@ Compatiblity: Android 5 or newer version
 已於以下裝置測試可用，功能皆正常：Google Pixel 2, Android 11.0、HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7
 Tested on Google Pixel 2, Android 11.0, HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7.  All of them worked correctly.
 </pre>
-
 
