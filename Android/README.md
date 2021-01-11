@@ -16,6 +16,6 @@ Download (English Version) v1.0
 </a></pre>
 
 <h2>螢幕快照 / Screenshots</h2>
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/Android/ReadmeResources/Screenshot-en.png" width="540px" height="960px"></img>
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/Android/ReadmeResources/Screenshot-zhtw.png" width="540px" height="960px"></img>
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/Android/ReadmeResources/Screenshot-en.png" width="270px" height="480px"></img>
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/Android/ReadmeResources/Screenshot-zhtw.png" width="270px" height="480px"></img>
 
