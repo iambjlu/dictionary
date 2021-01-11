@@ -12,8 +12,7 @@ Avaliable on two mobile operating systems: Apple iOS(included iPadOS) and Androi
 <h2>iOS 多語言字典 / iOS Multi-Languages Dictionary</h2>
 <pre>
 可支援的語言及使用字典來源：依照設定中啟用的辭典而定。
-可以在「設定→一般→辭典」查看啟用的辭典。
-<br>
+可以在「設定→一般→辭典」查看啟用的辭典。<br>
 Avaliable Languages and sources that dictionary uses: It depends on "dictionaries" enabled in your iOS Setting.
 You can check it out in "Settings→General→Dictionary".
 <br>
