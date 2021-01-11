@@ -41,8 +41,7 @@ For Download link, source code bricks, please click here (iOS Version)
 <h2>Android 中英雙向字典 / Android Chinese-English Two-Way Dictionary</h2>
 <pre>
 可支援的語言：中文→英文、英文→中文
-使用字典來源：Yahoo字典 (本專案僅供學術研究使用，請勿用作商業用途）
-<br>
+使用字典來源：Yahoo字典 (本專案僅供學術研究使用，請勿用作商業用途）<br>
 Avaliable Languages: Chinese→English, English→Chinese
 Sources that dictionary used: Yahoo Dictionary
 (This app is only provided for educating and researching purpose.  Don't use it on commercial purpose.)
