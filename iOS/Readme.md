@@ -24,7 +24,7 @@ Get this shortcut (English Version) v1.0
 查看原始碼 / Check out the source code bricks
 </a></pre>
 
-<a href="https://github.com/iambjlu/dictionary/raw/main/iOS/ReadmeResources/How-To-Install.MP4" target="_blank"><pre>
+<a href="https://github.com/iambjlu/dictionary/blob/main/iOS/How-To-Install.md" target="_blank"><pre>
 安裝過程教學影片(英文) / Video Tutorial For Installing(English)</pre></a>
 
 
