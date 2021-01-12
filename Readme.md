@@ -52,8 +52,8 @@ Avaliable Languages: Chinese→English, English→Chinese
 Sources that dictionary used: Yahoo Dictionary
 (This app is only provided for educating and researching purpose.  Don't use it on commercial purpose.)
 <br>
-黑暗風格，幫助OLED顯示器更省電
-Dark Style makes OLED Displays save more energy
+黑暗風格，使OLED顯示器更省電!
+Dark Style saves more battery life for your OLED Display!
 <br>
 「字典」使用MIT App Inventor 2製成。
 "Dictionary" was created with MIT App Inventor 2.
