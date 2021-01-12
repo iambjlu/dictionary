@@ -30,6 +30,13 @@ Compatiblity: iOS 13 or newer version
 Tested on iPhone XR, iOS 14.3, iPhone SE,iOS 13.4, iPad mini 2019,iPadOS 14.0.1.  All of them worked correctly.
 </pre>
 
+<h2>iOS 螢幕快照 / iOS Screenshots</h2>
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-zhtw.gif">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-zhtw.gif" width="414px" height="896px">
+</img></a>
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-en.gif">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-en.gif" width="414px" height="896px"></img></a>
+
 
 
 
@@ -58,3 +65,10 @@ Compatiblity: Android 5 or newer version
 Tested on Google Pixel 2, Android 11.0, HTC Desire 650, Android 6.0.1, BlueStacks for Mac,Android 7.  All of them worked correctly.
 </pre>
 
+
+<h2>Android 螢幕快照 / Android Screenshots</h2>
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/Android/ReadmeResources/Screenshot-en.png">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/Android/ReadmeResources/Screenshot-en.png" width="405px" height="720px">
+</img></a>
+<a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/Android/ReadmeResources/Screenshot-zhtw.png">
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/Android/ReadmeResources/Screenshot-zhtw.png" width="405px" height="720px"></img></a>
