@@ -28,16 +28,16 @@ Get this shortcut (English Version) v1.0
 安裝過程教學影片(英文) / Video Tutorial For Installing(English)</pre></a>
 
 
-<h2>距離成功只差一個步驟了! / It's only one step away from success!</h2>
-您必須允許這個捷徑運行捷徑，這樣才可以自動重複執行<br>
-You must allow the shortcut to run other shortcuts to repeat itself<br><br>
-<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/access-zhtw.gif" width="414px" height="896px">
-</img><img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/access-en.gif" width="414px" height="896px"></img>
-
-
 <h2>螢幕快照 / Screenshots</h2>
 <a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-zhtw.gif">
 <img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-zhtw.gif" width="414px" height="896px">
 </img></a>
 <a href="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-en.gif">
 <img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/demo-en.gif" width="414px" height="896px"></img></a>
+
+
+<h2>距離成功只差一個步驟了! / It's only one step away from success!</h2>
+您必須允許這個捷徑運行捷徑，這樣才可以自動重複執行<br>
+You must allow the shortcut to run other shortcuts to repeat itself<br><br>
+<img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/access-zhtw.gif" width="414px" height="896px">
+</img><img src="https://raw.githubusercontent.com/iambjlu/dictionary/main/iOS/ReadmeResources/access-en.gif" width="414px" height="896px"></img>
